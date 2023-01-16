@@ -3,11 +3,11 @@ const chalk = require('chalk')
 
 
 //---------⚠️ 𝗪𝗮𝗿𝗻𝗶𝗻𝗴 ⚠️-----------\\
-global.simpleBotname = "Anya" //⚠️ Only use normal and one work name here or you'll get errors ⚠️//
+global.simpleBotname = "𝑭𝒂𝒔𝒕𝒆𝒔𝒕 𝑺𝒚𝒔𝒕𝒆𝒎" //⚠️ Only use normal and one work name here or you'll get errors ⚠️//
 
 
 //------------❤️ 𝗕𝗼𝘁 𝗱𝗲𝘁𝗮𝗶𝗹𝘀 ❤️-----------\\
-global.botname = "Fastest System" 
+global.botname = "𝑭𝒂𝒔𝒕𝒆𝒔𝒕 𝑺𝒚𝒔𝒕𝒆𝒎" 
 global.websitex = "https://fastest-system.com/" // Website to be displayed //
 global.botscript = 'https://github.com/fastestsystem/Anya-pika-MD-v2/' // Script link //
 global.packname = "Team Fastest System" // sticker watermark packname //
@@ -37,7 +37,7 @@ name18 = "𝕬𝖍𝖒𝖆𝖉 𓆩×͜×𓆪ꪾ*"
 
 //--------Random footer message-----------\\
 footer1 = `𓄂𝕬𝖍𝖒𝖆𝖉ㅤꪜ⃢𝟤ㅤ𓆩×͜×𓆪ꪾ `
-footer2 = ` 𝕬𝖍𝖒𝖆𝖉ㅤꪜ⃢𝟤ㅤ𓆩×͜×𓆪ꪾ`
+footer2 = ` 𝑭𝒂𝒔𝒕𝒆𝒔𝒕 𝑺𝒚𝒔𝒕𝒆𝒎ㅤꪜ⃢𝟤ㅤ𓆩×͜×𓆪ꪾ`
 
 //--------Left message "Nikal msg"--------\\
 nikalmsg1 = 'Ye galiye ye choubara, yaha dikhna na dubara 😚🖕🏻' 
